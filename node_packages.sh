@@ -1,1 +1,1 @@
-npm install -g knex bower grunt grunt-cli gulp cordova ionic
+npm install -g knex bower grunt grunt-cli gulp cordova ionic Livescript karma
